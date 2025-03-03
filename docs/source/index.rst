@@ -21,12 +21,11 @@ Lista:
     #. ewqewq
     #. da
     #. ewqe
-.. image::  https://cdn-imgix.headout.com/tour/7064/TOUR-IMAGE/c0e9c490-b7e7-47a6-9c43-3e10e8ddc9cb-4445-dubai-img-worlds-of-adventure-tickets-08.jpeg?auto=format&w=1170&h=576&q=90&ar=16%3A10&crop=faces%2Ccenter&fit=crop
+
+.. image:: https://media.licdn.com/dms/image/v2/D4D22AQGwH3ihgnf1fA/feedshare-shrink_800/feedshare-shrink_800/0/1684832019778?e=2147483647&v=beta&t=CtuAwakTS1yiJg6lvSqQXPUThVrblJl7Wb7CcMB9N3s
    :width: 600
 
-   :width: 80%
-   :align: center
-   :alt: GitHub template for the tutorial
+ 
 
 Tabela (jeżeli istnieje)
 
