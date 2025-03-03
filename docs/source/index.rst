@@ -14,7 +14,7 @@ Akapit informacyjny (Note, Tip)
 
 Odnośnik 
 
-`Sign in to GitHub https://github.com/login
+`Sign in to GitHub <https://github.com/login'>
 
 
 Lista:
