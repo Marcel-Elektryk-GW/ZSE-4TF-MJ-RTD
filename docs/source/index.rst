@@ -40,9 +40,9 @@ lokalny
 Listy (numerowana, wypunktowana, definicji)
 
 Warto kupić:
-    #. marchewki
-    #. borówki
-    #. śmietane
+    #. ewqewq
+    #. da
+    #. ewqe
 
 Obraz (z alternatywnym tekstem oraz podpisem)
 .. figure:: /_static/images/tutorial/github-template.png
