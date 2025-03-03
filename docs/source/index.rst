@@ -22,8 +22,7 @@ Lista:
     #. da
     #. ewqe
 
-Obraz (z alternatywnym tekstem oraz podpisem)
-.. figure:: /https://cdn-imgix.headout.com/tour/7064/TOUR-IMAGE/c0e9c490-b7e7-47a6-9c43-3e10e8ddc9cb-4445-dubai-img-worlds-of-adventure-tickets-08.jpeg?auto=format&w=1170&h=576&q=90&ar=16%3A10&crop=faces%2Ccenter&fit=crop
+ https://cdn-imgix.headout.com/tour/7064/TOUR-IMAGE/c0e9c490-b7e7-47a6-9c43-3e10e8ddc9cb-4445-dubai-img-worlds-of-adventure-tickets-08.jpeg?auto=format&w=1170&h=576&q=90&ar=16%3A10&crop=faces%2Ccenter&fit=crop
    :width: 80%
    :align: center
    :alt: GitHub template for the tutorial
